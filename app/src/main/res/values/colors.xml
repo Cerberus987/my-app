@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="PINK">#6200EE</color>
+    <color name="OCEANBLUE">#3700B3</color>
+    <color name="CISFERI">#03DAC5</color>
+    <color name="BLUE">#FF33B5E5</color>
+    <color name="RED">#FFFF4444</color>
+    <color name="GREEN">#FF99CC00</color>
+    <color name="PrimaryDark">#000000</color>
+
+</resources>
